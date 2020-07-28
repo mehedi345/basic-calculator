@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+form{
+    box-sizing: border-box;
+    width: 250px;
+    background-color: #ddd;
+    padding:30px 15px 15px 15px 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
+    margin: auto;
+}
+input[type="text"]{
+    width:100%;
+    font-size: 36px;
+    padding:5px;
+    box-sizing:border-box;
+    text-align:right;
+}
+input[type="button"]{
+    width: 58px;
+    height: 55px;
+    background-color: #aaa;
+    color:#fff;
+    font-size: 22px;
+    margin-bottom: 5px;
+    border-radius:10px;
+    
+}
